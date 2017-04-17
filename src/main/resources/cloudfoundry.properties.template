@@ -1,0 +1,4 @@
+cloudfoundry.host=
+cloudfoundry.username=
+cloudfoundry.password=
+cloudfoundry.defaultCreateUserOrgGuid=
